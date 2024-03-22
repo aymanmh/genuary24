@@ -1,2 +1,2 @@
-# genuary24
+# Genuary24
 Genuary 2024 projects
